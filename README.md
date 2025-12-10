@@ -1,54 +1,18 @@
-i am full stack developer currently pursuing in btech in cgc landran in 3 year i am from ludhiana punjab
-Highly motivated and detail-oriented Full Stack Developer with
-a strong foundation in both frontend and backend
-development. Specialized in building dynamic, responsive,
-and user-focused web applications using React.js and modern
-UI frameworks. Skilled in developing scalable APIs, integrating
-databases, and ensuring seamless end-to-end functionality.
-Passionate about creating clean, efficient code and delivering
-innovative digital solutions that enhance user experience and
-business performance
+# 💫 About Me:
+i am full stack developer currently pursuing in btech in cgc landran in 3 year i am from ludhiana  punjab<br>Highly motivated and detail-oriented Full Stack Developer with<br>a strong foundation in both frontend and backend<br>development. Specialized in building dynamic, responsive,<br>and user-focused web applications using React.js and modern<br>UI frameworks. Skilled in developing scalable APIs, integrating<br>databases, and ensuring seamless end-to-end functionality.<br>Passionate about creating clean, efficient code and delivering<br>innovative digital solutions that enhance user experience and<br>business performance<br><br>my tech stack both frontend and backend with integration of rest full api <br>also integrated authentication using firebase and clerk <br><br>Technical Skills<br>Education<br>HTML <br>Java Script<br>Java<br>Resct JS<br>Next JS<br>Node JS<br>Express JS <br>Firebase<br>Tailwind CSS<br>MongoDB<br>Tools<br>GitHub<br>Postman<br>Windsurf<br>N8N<br>Cursor<br>VS Code
 
-my tech stack both frontend and backend with integration of rest full api
-also integrated authentication using firebase and clerk
 
-Technical Skills
-Education
-HTML
-Java Script
-Java
-Resct JS
-Next JS
-Node JS
-Express JS
-Firebase
-Tailwind CSS
-MongoDB
-Tools
-GitHub
-Postman
-Windsurf
-N8N
-Cursor
-VS Code
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khanna_sarthik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarthik-khanna-05650a276/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kha7086) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthikkhanna28@gmail.com) 
 
-🌐 Socials:
-Instagram LinkedIn X email
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sarthik-khanna&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sarthik-khanna&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthik-khanna&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-💻 Tech Stack:
-Java HTML5 JavaScript R CSS3 Python Netlify Vercel Express.js FastAPI JWT NestJS NodeJS Nodemon Redux React Hook Form React Router React TailwindCSS Vite MongoDB MySQL Neo4J Figma Git GitHub Postman
+---
+[![](https://visitcount.itsvg.in/api?id=sarthik-khanna&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-**sarthik-khanna/sarthik-khanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
