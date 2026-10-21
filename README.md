@@ -1,10 +1,10 @@
 <div align="center">
 
-![Intro](./assets/hero.svg?v=1)
-![About](./assets/about-life.svg?v=1)
-![Stack](./assets/stack.svg?v=1)
-![ID](./assets/id-dashboard.svg?v=1)
-![Connect](./assets/connect.svg?v=1)
+![Intro](./assets/hero.svg?v=2)
+![About](./assets/about-life.svg?v=2)
+![Stack](./assets/stack.svg?v=2)
+![ID](./assets/id-dashboard.svg?v=2)
+![Connect](./assets/connect.svg?v=2)
 
 [**LinkedIn**](https://www.linkedin.com/in/sarthik-khanna-05650a276) &nbsp;|&nbsp; [**GitHub**](https://github.com/sarthik-khanna) &nbsp;|&nbsp; [**Portfolio**](https://sarthikkhanna.in)
 
